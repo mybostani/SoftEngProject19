@@ -30,8 +30,12 @@
 ## Versioning
 Αυτή είναι η πρώτη προσπάθεια (v_01) του κώδικα.
 
-## Authors
-* **Sotiris Soukaras**  - [sskrs](https://github.com/sskrs)
+## Authors του project
+
+* **Δημήτριος Κουμαδωράκης**  ```- [sskrs](https://github.com/sskrs)//```
+* **Αικατερίνη Μαρία Παντελεάκη**
+* **Σωτήριος Σουκαράς**
+* **Χρήστος Χρήστου**
 
 ## License
 
