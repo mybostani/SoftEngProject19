@@ -14,23 +14,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Executable
 Για ευκολία έχουμε δημιουργήσει ένα exe το οποίο κατεβάζετε στο desktop σας χωρίς κάποια περαιτέρω εγκατάσταση.
 
-### Installing
+### Downloading and compiling
 
-A step by step series of examples that tell you how to get a development env running
+Κατεβάζετε το project στο pc. Ανοίγετε το package του bluej που περιέχεται στο file κάνετε compile την main κλάση ώστε να δημιουργηθούν τα executable αρχεία για να τρέξει το application.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+![Screenshot](Screenshot_1.png)
 
 ## Running the tests
 
