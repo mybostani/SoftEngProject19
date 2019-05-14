@@ -1,6 +1,7 @@
-# Project Title
+# Project for Software Engineering 
 
-One Paragraph of project description goes here
+Το έργο αφορά μια εφαρμογή στην ελληνική γλώσσα για desktop, η οποία θα  εντάσσεται στη θεματική της αστικής κηπουρικής.
+
 
 ## Getting Started
 
