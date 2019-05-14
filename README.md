@@ -9,11 +9,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Ένα οποιοδήποτε IDE που να αναγνωρίζει JAVA. Προτείνουμε το Bluej στο οποίο αναπτύχθηκε το application.
 
-```
-Give examples
-```
+### Executable
+Για ευκολία έχουμε δημιουργήσει ένα exe το οποίο κατεβάζετε στο desktop σας χωρίς κάποια περαιτέρω εγκατάσταση.
 
 ### Installing
 
