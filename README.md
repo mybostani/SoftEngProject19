@@ -1,4 +1,4 @@
-# Project for Software Engineering 
+# Software Engineering Project for Ceid
 
 Το έργο αφορά μια εφαρμογή στην ελληνική γλώσσα για desktop, η οποία θα  εντάσσεται στη θεματική της αστικής κηπουρικής.
 
@@ -31,7 +31,7 @@
 Αυτή είναι η πρώτη προσπάθεια (v_01) του κώδικα.
 
 ## Authors
-* **Billie Thompson**  - [Ssskrs](https://github.com/PurpleBooth)
+* **Sotiris Soukaras**  - [sskrs](https://github.com/sskrs)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
