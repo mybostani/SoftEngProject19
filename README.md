@@ -20,29 +20,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ![Screenshot](Screenshot_1.png)
 
-## Running the tests
+## Running the app
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Για να τρέξουμε το app επιλέγουμε δεξί κλίκ στη Main και επιλέγουμε void main(String[] args)
+![Screenshot](Screenshot_2.png)
 
 ## Built With
 
