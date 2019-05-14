@@ -33,8 +33,6 @@
 ## Authors
 * **Sotiris Soukaras**  - [sskrs](https://github.com/sskrs)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mybostani/SoftEngProject19/blob/master/LICENSE)
