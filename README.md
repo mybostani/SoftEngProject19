@@ -27,14 +27,11 @@
 
 * [Bluej](https://www.bluej.org) - Το IDE στο οποίο αναπτύχθηκε το application.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Versioning
 Αυτή είναι η πρώτη προσπάθεια (v_01) του κώδικα.
 
 ## Authors
+* **Billie Thompson**  - [Ssskrs](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
