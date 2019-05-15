@@ -23,7 +23,7 @@
 Για να τρέξουμε το app επιλέγουμε δεξί κλίκ στη Main και επιλέγουμε void main(String[] args)
 ![Screenshot](Screenshot_2.png)
 
-Κωδικοί για μέλος(member) έχουμε θέσει: * **username=mybostani και password=mybostani**
+Κωδικοί για μέλος(member) έχουμε θέσει:  **username=mybostani και password=mybostani**
 
 ## Built With
 
