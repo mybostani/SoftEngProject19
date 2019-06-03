@@ -16,7 +16,7 @@
 
 Κατεβάζετε το project στο pc. Ανοίγετε το package του bluej που περιέχεται στο file κάνετε compile την main κλάση ώστε να δημιουργηθούν τα executable αρχεία για να τρέξει το application.
 
-![Screenshot](Screenshot_1.png)
+![Screenshot](maincompile.png)
 
 ## Running the app
 
