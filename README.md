@@ -30,7 +30,7 @@
 * [Bluej](https://www.bluej.org) - Το IDE στο οποίο αναπτύχθηκε το application.
 
 ## Versioning
-Αυτή είναι η πρώτη προσπάθεια (v_01) του κώδικα.
+Αυτή είναι η τελική προσπάθεια (v_1.0) του κώδικα.
 
 ## Authors του project
 
