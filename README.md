@@ -21,7 +21,7 @@
 ## Running the app
 
 Για να τρέξουμε το app επιλέγουμε δεξί κλίκ στη Main και επιλέγουμε void main(String[] args)
-![Screenshot](Screenshot_2.png)
+![Screenshot](mainrun.png)
 
 Κωδικοί για μέλος(member) έχουμε θέσει:  **username=mybostani και password=mybostani**
 
